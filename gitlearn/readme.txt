@@ -15,3 +15,5 @@ start /b "" cmd /c del "%~f0"&exit /b
 we are learning git as a beginner!
 that is why I want to test git command.
 but why I can't see the difference.
+
+git has a mutable area called stage.
