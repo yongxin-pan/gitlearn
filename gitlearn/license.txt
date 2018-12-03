@@ -1,9 +1,0 @@
-Mobile Automation Tools
- Platform Specific Tools (Provided by Mobile OS vendors)
-iOS Instrumentation, MonkeyRunner, UIAutomator
- Functional Testing Tools
-Robotium, Appium, MonkeyTalk, Selendroid, ios-driver
- Unit Testing Tools
-Android JUnit, Roboelectric, OCUnit
- Performance Testing Tools
-NeoLoad, MobiTest
